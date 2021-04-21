@@ -20,7 +20,3 @@
 -   Run `npm install && npm run dev`.
 -   Run `php artisan serve`.
 -   open `http://localhost:8000` in your browser.
-
-## License
-
-...
